@@ -1,0 +1,7 @@
+{
+  "spec": "./test/*.spec.js",
+  "reporter": "tap",
+  "ui": "bdd",
+  "slow": 500,
+  "timeout": 999999
+}

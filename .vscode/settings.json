@@ -1,0 +1,10 @@
+{
+  "mochaExplorer.files": "test/*.spec.js",
+  "mochaExplorer.logpanel": true,
+  "mochaExplorer.watch": [
+    "test/*.spec.js",
+    "src/**/*.js"
+],
+"testExplorer.hideEmptyLog": true,
+  "testExplorer.mergeSuites": true
+}
